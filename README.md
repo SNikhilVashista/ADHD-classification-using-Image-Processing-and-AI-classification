@@ -29,3 +29,13 @@ To install all dependencies, run:
 ```bash
 pip install nibabel numpy nilearn pandas matplotlib seaborn scikit-learn scipy
 ```
+
+
+## Running code
+
+After installing all the dependencies follow each cell in the ipynb file for running samples.
+Store the directory path as required in below variables.
+
+  - `$nifti_file_path` - for a single subject: located in cell 3 of ipynb
+  -  `$root_dir` - directory path for whole NYU dataset: located in cell 4 of ipynb
+
