@@ -1,3 +1,4 @@
+
 ## How to Clone the Repository
 
 ```bash
@@ -7,6 +8,7 @@ git clone https://github.com/SNikhilVashista/ADHD-classification-using-Image-Pro
 ## How to Access the Dataset
 
 Download the **NYU Dataset** (~45 GB) using the instructions provided [here](https://fcon_1000.projects.nitrc.org/indi/adhd200/download_scripts/Download_Instructions_ADHD200.pdf).
+Install Cyberduck and download the **NYU Dataset** into your local system folder.
 
 ## Dependencies
 
